@@ -1,0 +1,211 @@
+[
+    {
+        "name": "University of Dhaka",
+        "Motto": "শিক্ষাই আলো",
+        "yearOfEstablishment": 1921,
+        "permanentCampus": "Dhaka University, Ramna, Dhaka-1000",
+        "viceChancellor": "Professor Dr. Md Akhtaruzzaman",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg",
+        "totalEnrollment": 30015,
+        "Website": "www.du.ac.bd",
+        "ApplicationFee": 750
+    },
+    {
+        "name": "University of Rajshahi",
+        "Motto": "",
+        "yearOfEstablishment": 1953,
+        "permanentCampus": "Motihar, Kajla, Rajshahi-6205",
+        "viceChancellor": "Professor Md. Sultan-Ul-Islam",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo-of-Rajshahi-University.png",
+        "totalEnrollment": 38291,
+        "Website": "www.ru.ac.bd",
+        "ApplicationFee": 850
+    },
+    {
+        "name": "Bangladesh Agricultural University",
+        "Motto": "Knowledge, Efficiency, Moral Character",
+        "yearOfEstablishment": 1961,
+        "permanentCampus": "Bangladesh Agricultural University, Mymensingh-2202, Bangladesh",
+        "viceChancellor": "Prof. Dr. Lutful Hassan",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Bangladesh_Agricultural_University_%28crest%29.png/220px-Bangladesh_Agricultural_University_%28crest%29.png",
+        "totalEnrollment": 7000,
+        "Website": "www.bau.edu.bd",
+        "ApplicationFee": 950
+    },
+    {
+        "name": "Bangladesh University of Engineering & Technology",
+        "Motto": "Knowledge, Efficiency, Moral Character",
+        "yearOfEstablishment": 1962,
+        "permanentCampus": "Bangladesh University of Engineering & Technology,Dhaka-1000, Bangladesh",
+        "viceChancellor": "Prof. Dr. Satya Prasad Majumder",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png",
+        "totalEnrollment": 9234,
+        "Website": "www.buet.ac.bd",
+        "ApplicationFee": 1850
+    },
+    {
+        "name": "University of Chittagong",
+        "Motto": "",
+        "yearOfEstablishment": 1966,
+        "permanentCampus": "Village: Fatepur, Post Office: University of Chittagong, Upazilla: Hathazari, District: Chattogram",
+        "viceChancellor": "Professor Dr. Shireen Akhter",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/University_of_Chittagong_logo.svg/1200px-University_of_Chittagong_logo.svg.png",
+        "totalEnrollment": 24283,
+        "Website": "www.cu.ac.bd",
+        "ApplicationFee": 750
+    },
+    {
+        "name": "Jahangirnagar University",
+        "Motto": "",
+        "yearOfEstablishment": 1970,
+        "permanentCampus": "Jahangirnagar University, Savar, Dhaka-1342, Bangladesh",
+        "viceChancellor": "Prof. Dr. Farzana Islam",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Jahangirnagar_University_%28emblem%29.png",
+        "totalEnrollment": 16781,
+        "Website": "www.juniv.edu",
+        "ApplicationFee": 550
+    },
+    {
+        "name": "Islamic University, Bangladesh",
+        "Motto": "Enhance quality of higher education and research",
+        "yearOfEstablishment": 1979,
+        "permanentCampus": "Islamic University, Kushtia-7003",
+        "viceChancellor": "Professor Dr. Shaikh Abdus Salam",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Islamic_University_of_Technology_%28coat_of_arms%29.png",
+        "totalEnrollment": 10058,
+        "Website": "www.iu.ac.bd",
+        "ApplicationFee": 950
+    },
+    {
+        "name": "Shahjalal University of Science & Technology",
+        "Motto": "Inner spirit",
+        "yearOfEstablishment": 1986,
+        "permanentCampus": "Shahjalal University of Science & Technology, Kumargaon, Sylhet-3114, Bangladesh",
+        "viceChancellor": "Prof. Farid Uddin Ahmed",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Shahjalal_University_of_Science_and_Technology_logo.png",
+        "totalEnrollment": 7662,
+        "Website": "www.sust.edu",
+        "ApplicationFee": 756
+    },
+    {
+        "name": "Khulna University",
+        "Motto": "Inner spirit",
+        "yearOfEstablishment": 1987,
+        "permanentCampus": "Gollamari, Horintana Thana, Khulna",
+        "viceChancellor": "Prof. Dr. Mahmood Hossain",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Khulna_University_Logo.svg/1200px-Khulna_University_Logo.svg.png",
+        "totalEnrollment": 6965,
+        "Website": "www.ku.ac.bd",
+        "ApplicationFee": 650
+    },
+    {
+        "name": "National University",
+        "Motto": "",
+        "yearOfEstablishment": 1992,
+        "permanentCampus": "National University, Board Bazar, Gazipur-1704",
+        "viceChancellor": "Prof Dr Md. Mashiur Rahman",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/National_University%2C_Bangladesh_crest.svg/1200px-National_University%2C_Bangladesh_crest.svg.png",
+        "totalEnrollment": 2089909,
+        "Website": "www.nu.edu.bd",
+        "ApplicationFee": 350
+    },
+    {
+        "name": "Bangabandhu Sheikh Mujib Medical University",
+        "Motto": "",
+        "yearOfEstablishment": 1998,
+        "permanentCampus": "Bangabandhu Sheikh Mujib Medical University, Shahbag, Dhaka-1000, Bangladesh.",
+        "viceChancellor": "Professor Dr. Md. Sharfuddin Ahmed",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bsmmc_logo_en.png",
+        "totalEnrollment": 3955,
+        "Website": "www.bsmmu.edu.bd",
+        "ApplicationFee": 750
+    },
+    {
+        "name": "Hajee Mohammad Danesh Science & Technology University",
+        "Motto": "",
+        "yearOfEstablishment": 1999,
+        "permanentCampus": "Hajee Mohammad Danesh Science & Technology University, Dinajpur-5200,Bangladesh",
+        "viceChancellor": "Prof. Dr. M. Kamruzzaman",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/HSTU_Logo.png",
+        "totalEnrollment": 11000,
+        "Website": "www.hstu.ac.bd",
+        "ApplicationFee": 850
+    },
+    {
+        "name": "Chittagong University of Engineering & Technology",
+        "Motto": "",
+        "yearOfEstablishment": 2003,
+        "permanentCampus": "Chittagong University of Engineering & Technology, Rawjan, Chittagong-4349. Bangladesh.",
+        "viceChancellor": "Prof. Dr. Mohammad Rafiqul Alam",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/CUET_Vector_ogo.svg/1200px-CUET_Vector_ogo.svg.png",
+        "totalEnrollment": 4500,
+        "Website": "www.cuet.ac.bd",
+        "ApplicationFee": 750
+    },
+    {
+        "name": "Rajshahi University of Engineering & Technology",
+        "Motto": "",
+        "yearOfEstablishment": 2003,
+        "permanentCampus": "Rajshahi University of Engineering & Technology, Rajshahi-6204, Bangladesh",
+        "viceChancellor": "Prof. Dr. Md. Rafiqul Islam Sheikh",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/RUET_logo.svg/1200px-RUET_logo.svg.png",
+        "totalEnrollment": 5954,
+        "Website": "www.ruet.ac.bd",
+        "ApplicationFee": 650 
+    },
+    {
+        "name": "Comilla University",
+        "Motto": "",
+        "yearOfEstablishment": 2006,
+        "permanentCampus": "Comilla University, Kotbari, Comilla, Shalmanpur-3500, Bangladesh",
+        "viceChancellor": "Professor Dr. Emran Kabir Chowdhury",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Comilla_University.jpg",
+        "totalEnrollment": 7055,
+        "Website": "www.cou.ac.bd",
+        "ApplicationFee": 750
+    },
+    {
+        "name": "Noakhali Science & Technology University",
+        "Motto": "",
+        "yearOfEstablishment": 2006,
+        "permanentCampus": "Noakhali Science & Technology University, Sonapur, Noakhali-3814",
+        "viceChancellor": "\tProf. Dr. Didar-Ul-Alam",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Logo_of_Noakhali_Science_and_Technology_University.gif",
+        "totalEnrollment": 6437,
+        "Website": "www.nstu.edu.bd",
+        "ApplicationFee": 250
+    },
+    {
+        "name": "University of Barisal",
+        "Motto": "",
+        "yearOfEstablishment": 2011,
+        "permanentCampus": "Barisal University, Karnakathi, Barisal Sadar, Barisal.",
+        "viceChancellor": "Professor Dr. Md. Sadequl Arefin",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/University_of_Barisal_logo.jpg",
+        "totalEnrollment": 7786,
+        "Website": "www.barisaluniv.edu.bd",
+        "ApplicationFee": 750
+    },
+    {
+        "name": "Bangladesh University of Textiles",
+        "Motto": "",
+        "yearOfEstablishment": 2010,
+        "permanentCampus": "Bangladesh University of Textiles , 92 Shaheed Tajuddin Ahmed Sarani, Tejgaon, Dhaka-1208, Bangladesh",
+        "viceChancellor": "Professor Md. Abul Kashem",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Crest_of_BUTEX.png",
+        "totalEnrollment": 2790,
+        "Website": "www.butex.edu.bd",
+        "ApplicationFee": 950
+    },
+    {
+        "name": "Islamic Arabic University",
+        "Motto": "",
+        "yearOfEstablishment": 2013,
+        "permanentCampus": "Islamic Arabic University 124/22 Block-A Road no-3 West Dhanmondi Basila Mohammadpur Dhaka-1207",
+        "viceChancellor": "Prof Dr Mohammad Ahsan Ullah",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Islamic_Arabic_University.png",
+        "totalEnrollment": 2790,
+        "Website": "www.iau.edu.bd",
+        "ApplicationFee": 750
+    }
+]

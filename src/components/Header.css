@@ -1,0 +1,13 @@
+.header{
+    background-color: #F6C4FF;
+    text-align: center;
+    padding: 10px;
+}
+
+.header span{
+    font-style: italic;
+    font-weight: 500;
+    font-size: larger;
+    color: rgb(185, 9, 9);
+}
+
